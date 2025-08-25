@@ -8,9 +8,9 @@ Stay tuned for upcoming **live sessions** and **recorded tutorials**. We also fe
 
 | **Session**                    | **Date**             | **Location**             | **Join Link**       |
 |---------------------------------|----------------------|--------------------------|---------------------|
-| Building Data Pipelines with Airflow  | March 15, 2025           | Online (Zoom)            | [Join Here](https://datadrooler.com/register/)      |
-| Building Data Pipelines with Azure    | March 23, 2025        | Online (Zoom)            | [Join Here](https://datadrooler.com/register/)      |
-| Building Data Pipelines with AWS   | March 30, 2025             | Online (Zoom)            | [Join Here](https://datadrooler.com/register/)      |
+| Building Data Pipelines with Airflow  | Aug 30, 2025           | Online (Zoom)            | [Join Here](https://datadrooler.com/register/)      |
+| Building Data Pipelines with Azure    | Sep 6, 2025        | Online (Zoom)            | [Join Here](https://datadrooler.com/register/)      |
+| Building Data Pipelines with AWS   | Sep 13, 2025             | Online (Zoom)            | [Join Here](https://datadrooler.com/register/)      |
 
 ---
 
